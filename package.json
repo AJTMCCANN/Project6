@@ -1,0 +1,16 @@
+{
+  "name": "content-scraper",
+  "version": "1.0.0",
+  "description": "content scraper",
+  "main": "scraper.js",
+  "scripts": {
+  	"start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam McCann",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.2",
+    "write": "^0.3.2"
+  }
+}
